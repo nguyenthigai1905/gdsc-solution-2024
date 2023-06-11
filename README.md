@@ -8,7 +8,7 @@ A great mobile application that solves often neglected pictures by extracting kn
 
 ## Technology used
 - Flutter 
--Tensorflow
+- Tensorflow
 - Firebase 
 - OpenCV
 
